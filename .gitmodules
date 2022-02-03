@@ -1,0 +1,6 @@
+[submodule "2ac"]
+	path = 2ac
+	url = https://github.com/miermontoto/2ac
+[submodule "TeamworkImages"]
+	path = TeamworkImages
+	url = https://github.com/miermontoto/TeamworkImages
